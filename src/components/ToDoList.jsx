@@ -18,6 +18,3 @@ const ToDoList = () => {
 }
 
 export default ToDoList
-
-
-// TODO: Abstreichen der ToDos muss noch auf Counter angewandt werden
